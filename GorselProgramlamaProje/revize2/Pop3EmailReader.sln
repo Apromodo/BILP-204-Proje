@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pop3EmailReader", "Pop3EmailReader\Pop3EmailReader.csproj", "{AA68518D-E6CA-4F9B-A77D-BBF81FD4C5D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailApp", "MailApp\MailApp.csproj", "{D0DEE968-8F09-4F9A-9541-13011C138A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA68518D-E6CA-4F9B-A77D-BBF81FD4C5D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA68518D-E6CA-4F9B-A77D-BBF81FD4C5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA68518D-E6CA-4F9B-A77D-BBF81FD4C5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA68518D-E6CA-4F9B-A77D-BBF81FD4C5D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0DEE968-8F09-4F9A-9541-13011C138A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DEE968-8F09-4F9A-9541-13011C138A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DEE968-8F09-4F9A-9541-13011C138A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DEE968-8F09-4F9A-9541-13011C138A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D83F0A35-E0DC-4B66-B3CC-5DEF6ADA6C23}
+	EndGlobalSection
+EndGlobal

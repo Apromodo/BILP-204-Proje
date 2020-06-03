@@ -1,0 +1,5 @@
+Gmail ile mail göndermek için 
+Host = "smtp.live.com", satırını smtp.gmail.com yapmalısınız.
+Gmail ile mail okumak için ise
+rep.Connect("outlook.office365.com", txtEmail.Text, txtSifre.Text, 995, true);
+kısmındaki Outlook.office365.com yerine pop.gmail.com yazmanız gerekmektedir.
