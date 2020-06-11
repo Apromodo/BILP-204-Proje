@@ -1,0 +1,16 @@
+c:\users\dwimbley\documents\visual studio 2013\Projects\Pop3EmailReader\Pop3EmailReader\bin\Debug\Pop3EmailReader.exe.config
+c:\users\dwimbley\documents\visual studio 2013\Projects\Pop3EmailReader\Pop3EmailReader\bin\Debug\Pop3EmailReader.exe
+c:\users\dwimbley\documents\visual studio 2013\Projects\Pop3EmailReader\Pop3EmailReader\bin\Debug\Pop3EmailReader.pdb
+c:\users\dwimbley\documents\visual studio 2013\Projects\Pop3EmailReader\Pop3EmailReader\bin\Debug\OpenPop.dll
+c:\users\dwimbley\documents\visual studio 2013\Projects\Pop3EmailReader\Pop3EmailReader\obj\Debug\Pop3EmailReader.csprojResolveAssemblyReference.cache
+c:\users\dwimbley\documents\visual studio 2013\Projects\Pop3EmailReader\Pop3EmailReader\obj\Debug\Pop3EmailReader.exe
+c:\users\dwimbley\documents\visual studio 2013\Projects\Pop3EmailReader\Pop3EmailReader\obj\Debug\Pop3EmailReader.pdb
+C:\Users\omer\Desktop\22\Pop3EmailReader\Pop3EmailReader\bin\Debug\Pop3EmailReader.exe.config
+C:\Users\omer\Desktop\22\Pop3EmailReader\Pop3EmailReader\bin\Debug\Pop3EmailReader.exe
+C:\Users\omer\Desktop\22\Pop3EmailReader\Pop3EmailReader\bin\Debug\Pop3EmailReader.pdb
+C:\Users\omer\Desktop\22\Pop3EmailReader\Pop3EmailReader\bin\Debug\OpenPop.dll
+C:\Users\omer\Desktop\22\Pop3EmailReader\Pop3EmailReader\obj\Debug\Pop3EmailReader.csprojAssemblyReference.cache
+C:\Users\omer\Desktop\22\Pop3EmailReader\Pop3EmailReader\obj\Debug\Pop3EmailReader.csproj.CoreCompileInputs.cache
+C:\Users\omer\Desktop\22\Pop3EmailReader\Pop3EmailReader\obj\Debug\Pop3EmailReader.csproj.CopyComplete
+C:\Users\omer\Desktop\22\Pop3EmailReader\Pop3EmailReader\obj\Debug\Pop3EmailReader.exe
+C:\Users\omer\Desktop\22\Pop3EmailReader\Pop3EmailReader\obj\Debug\Pop3EmailReader.pdb
